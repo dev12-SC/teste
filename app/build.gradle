@@ -28,13 +28,15 @@ android {
         flavor2 {
                 dimension 'lala'
                 applicationIdSuffix '.flavor2'
-        }
-"
+	}
+
        application_id_suffix {
                 dimension 'lala'
                 applicationIdSuffix '.application_id_suffix'
-        }
+       }
     }
+
+
 
 
 
