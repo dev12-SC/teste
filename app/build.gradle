@@ -34,7 +34,13 @@ android {
                 dimension 'lala'
                 applicationIdSuffix '.adadad'
         }
+        application_id_suffix {
+                dimension 'lala'
+                applicationIdSuffix '.application_id_suffix'
+        }
     }
+
+
 
 
 
