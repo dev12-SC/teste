@@ -34,12 +34,12 @@ android {
                 dimension 'lala'
                 applicationIdSuffix '.adadad'
         }
-        application_id_suffix {
+        aasses {
                 dimension 'lala'
-                applicationIdSuffix '.application_id_suffix'
+                applicationIdSuffix '.aasses'
         }
     }
-    
+
     buildTypes {
         release {
             minifyEnabled false
