@@ -30,9 +30,9 @@ android {
                 applicationIdSuffix '.flavor2'
 	    }
 
-        application_id_suffix {
+        adadad {
                 dimension 'lala'
-                applicationIdSuffix '.application_id_suffix'
+                applicationIdSuffix '.adadad'
         }
     }
 
