@@ -38,9 +38,9 @@ android {
                 dimension 'lala'
                 applicationIdSuffix '.aasses'
         }
-        application_id_suffix {
+        aaaaaa {
                 dimension 'lala'
-                applicationIdSuffix '.application_id_suffix'
+                applicationIdSuffix '.aaaaaa'
         }
     }
 
