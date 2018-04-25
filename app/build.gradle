@@ -38,6 +38,10 @@ android {
                 dimension 'lala'
                 applicationIdSuffix '.aasses'
         }
+        application_id_suffix {
+                dimension 'lala'
+                applicationIdSuffix '.application_id_suffix'
+        }
     }
 
     buildTypes {
