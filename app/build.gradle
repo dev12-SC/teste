@@ -19,7 +19,14 @@ android {
 
     productFlavors {
 
+
+        flavor0 {
+                dimension 'lala'
+                applicationIdSuffix '.flavor0'
+        }
     }
+
+
 
     buildTypes {
         release {
