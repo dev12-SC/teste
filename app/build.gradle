@@ -39,11 +39,7 @@ android {
                 applicationIdSuffix '.application_id_suffix'
         }
     }
-
-
-
-
-
+    
     buildTypes {
         release {
             minifyEnabled false
