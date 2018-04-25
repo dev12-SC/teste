@@ -24,7 +24,14 @@ android {
                 dimension 'lala'
                 applicationIdSuffix '.flavor0'
         }
+
+        flavor2 {
+                dimension 'lala'
+                applicationIdSuffix '.flavor2'
+        }
     }
+
+
 
 
 
